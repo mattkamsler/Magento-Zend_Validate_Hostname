@@ -1,0 +1,7 @@
+{
+    "name": "mattkamsler/zend-hostname-validator",
+    "description": "Zend hostname validator for magento",
+    "type": "magento-module",
+    "license": "BSD-3-Clause",
+    "require": {}
+}
